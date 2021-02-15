@@ -1,6 +1,7 @@
 ---
 # tasks file for master-instance
-- ec2:
+- name: launching k8s master
+  ec2:
         aws_access_key: "{{ aws_access_key }}"
         aws_secret_key: "{{ aws_secret_key }}"
         count: 1
