@@ -8,7 +8,7 @@ Requirements
 
 You need to install boto. 
 Command to install boto is : pip3 install boto
-You should have your pre-created dynamic inventory ready to fetch the instance, also configuration file of ansible should be ready.
+You should have your pre-created dynamic inventory ready to fetch the instance, also configuration file of ansible should be ready. You need to replace all the info such as key_name, ami-id, security group, etc as per your requirement
 
 Role Variables
 --------------
