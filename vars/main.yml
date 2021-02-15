@@ -1,0 +1,5 @@
+---
+# vars file for master-instance
+aws_access_key: "Your Access Key"
+aws_secret_key: "Your Secret Key"
+#Replace variables with your AWS credentials
