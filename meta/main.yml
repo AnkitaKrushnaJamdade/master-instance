@@ -9,4 +9,6 @@ galaxy_info:
   galaxy_tags: kubernetes master
 
 
-dependencies: boto library, pre-configured dynamic inventory and ansible configuration file
+dependencies: 
+     - boto library
+     - pre-configured dynamic inventory and ansible configuration file
