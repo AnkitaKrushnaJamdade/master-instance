@@ -11,3 +11,5 @@
         instance_tags: '{"Name":"k8s_master_an"}'
         wait: yes
         key_name: Your_key_name
+# Replace key_name, group_id as security group id, region as per your requirement        
+ 
