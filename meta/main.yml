@@ -7,8 +7,4 @@ galaxy_info:
   min_ansible_version: 2.9
 
   galaxy_tags: kubernetes master
-
-
-dependencies: 
-     - boto library
-     - pre-configured dynamic inventory and ansible configuration file
+  dependencies: boto
