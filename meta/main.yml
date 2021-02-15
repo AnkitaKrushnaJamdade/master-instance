@@ -1,0 +1,12 @@
+galaxy_info:
+  author: Ankita Jamdade
+  description: This role will launch on instance tagged as key = Name and value = k8s_master_an
+
+  license: license (GPL-2.0-or-later, MIT, etc)
+
+  min_ansible_version: 2.9
+
+  galaxy_tags: kubernetes master
+
+
+dependencies: boto library, pre-configured dynamic inventory and ansible configuration file
