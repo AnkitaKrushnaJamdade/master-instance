@@ -19,9 +19,9 @@ Dependencies
 ------------
 
 This role is one of the four which is designed to setup multi node k8s setup on the top of AWS instance by use of automation tool Ansible. So, for complete setup you have to download all four roles which are :
-1. master-instance
+1. master_instance
 2. master_conf
-3. slave-instance
+3. slave_instance
 4. slave_conf
 The roles should be applied serially.
 
