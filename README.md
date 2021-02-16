@@ -1,4 +1,4 @@
-master-instance
+master_instance
 =========
 
 This role will launch one master on AWS cloud and it'll tagged as k8s_master_an which is helpful to apply certain plays on certain instance
